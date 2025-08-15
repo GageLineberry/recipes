@@ -5,3 +5,4 @@
 *chickpeas
 *lemon
 *salt
+*garlic
